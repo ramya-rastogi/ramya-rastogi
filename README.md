@@ -17,6 +17,7 @@ I love **building things**, **solving problems**, and discovering new tech along
 - **RESQ** – Real-time disaster management system  
 - **MedoKnow** – Health knowledge-sharing platform  
 - **CareOfYou – EMMA** – Emergency medical assistance tool
+- **Jarvis**-A Python-powered voice assistant that listens, speaks, and helps you navigate the web and play music with simple commands
  
 
 ---
