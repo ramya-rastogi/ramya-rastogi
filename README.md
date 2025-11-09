@@ -18,6 +18,7 @@ I love **building things**, **solving problems**, and discovering new tech along
 - **MedoKnow** – Health knowledge-sharing platform  
 - **CareOfYou – EMMA** – Emergency medical assistance tool
 - **Jarvis**-A Python-powered voice assistant that listens, speaks, and helps you navigate the web and play music with simple commands
+- **IPL-2025-Batters-Analysis**-IPL 2025 batters data analysis with Python — insights, correlations, and dashboards.
  
 
 ---
