@@ -157,11 +157,6 @@ End-to-end EDA on IPL 2025 batting data: player-level insights, team comparisons
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-[![Ramya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramya-rastogi&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=7C3AED)](https://github.com/ramya-rastogi)
-
-<br/>
 
 ### 🗣️ Most Used Languages
 
